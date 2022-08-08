@@ -1,0 +1,65 @@
+	.btn {
+			background-color: DodgerBlue;
+			border: none;
+			color: white;
+			padding: 12px 30px;
+			cursor: pointer;
+			font-size: 20px;
+		}
+
+
+		.box {
+			background-color: DodgerBlue;
+			border: none;
+			color: white;
+			padding: 50px 30px;
+			
+			font-size: 20px;
+
+		}
+
+		.box2 {
+			background-color: DodgerBlue;
+			border: none;
+			color: white;
+			padding: 30px 29px; 
+			
+			font-size: 20px;
+
+		}
+
+	  body {
+      width: 960px;
+      margin: 0 auto;
+      font-family : Helvetica, Arial, sans-serif;
+      background:#add8e6;}
+      
+    #content {
+      overflow: auto;
+      height: 100%;}
+    #nav, #feature, #footer {
+      background-color: #efefef;
+      padding: 10px;
+      margin: 10px;}
+    .column1{
+      background-color: #efefef;
+      width: 940px auto;
+      float: center;
+      margin: 10px;}
+    li {
+      display: inline;
+      padding: 5px;}
+
+
+		/* Darker background on mouse-over */
+		.btn:hover {
+			background-color: RoyalBlue;
+		}
+
+
+		.body {
+			background: rgb(175, 238, 238);
+			color: rgb(175, 238, 238);
+		}
+
+   
